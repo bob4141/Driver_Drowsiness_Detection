@@ -1,0 +1,2 @@
+# Driver_Drowsiness_Detection
+In this project I've made a Drive Drowsiness Detector using Python, Pytorch and Yolo Model for Object Detection. Our aim was to build a fine tuned model which can help us to determine whether the driver is feeling drowsy or awake. We have used Ultralytics Yolo(v5) in this and used its base model which is trained on Coco dataset for object detection. After all the computation we were able to detect the face and provide the desired output in the real time by leveraging our webcam.
